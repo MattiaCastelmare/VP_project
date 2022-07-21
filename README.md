@@ -1,3 +1,4 @@
 # Vision-and-Perception's project "Depth estimation with a monocular camera"
 The problem is: given in input an RGB image predict the depth of each pixel with respect the camera from which you are acquiring the image. 
 ![image](https://user-images.githubusercontent.com/94857717/179365988-704eb64f-2015-4002-8d4e-37d0b5fd45c5.png)
+In the following drive folder there is the dataset and the different models. https://drive.google.com/drive/folders/12dztALh01sJSOgrGH2RIhtF4E_j2DIsz?usp=sharing
