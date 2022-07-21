@@ -8,5 +8,7 @@ The aim of this project is given in input an RGB image predict the depth map: th
 In the following drive folder there is the dataset and the different models that can be tested. 
 https://drive.google.com/drive/folders/12dztALh01sJSOgrGH2RIhtF4E_j2DIsz?usp=sharing
 
-Examples of the output:
+
+
+Example of the output of our best performing network:
 ![image](https://user-images.githubusercontent.com/94857717/180271976-e35fc133-4776-4529-9f92-9dd9df9c27c6.png)
