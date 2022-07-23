@@ -5,7 +5,7 @@ The aim of this project is given in input an RGB image predict the depth map: th
 
 
 ![image](https://user-images.githubusercontent.com/94857717/179365988-704eb64f-2015-4002-8d4e-37d0b5fd45c5.png)
-In the following drive folder there is the dataset and the different models that can be tested. 
+In the following drive folder there are the dataset and the different models that can be tested. 
 https://drive.google.com/drive/folders/12dztALh01sJSOgrGH2RIhtF4E_j2DIsz?usp=sharing
 
 
