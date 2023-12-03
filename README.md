@@ -1,5 +1,5 @@
 # Vision and perception's project "Depth estimation with a monocular camera"
-The aim of this project is given in input an RGB image predict the depth map: the same image of input where the value of each pixel represents the depth of it with respect the camera from which you are acquiring the image.
+The aim of this project is to predict the depth map of an RGB image. The dept map is the same image of input where the value of each pixel represents the depth of it with respect the camera from which you are acquiring the image.
 
 
 
